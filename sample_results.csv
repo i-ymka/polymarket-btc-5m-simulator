@@ -1,0 +1,4 @@
+timestamp_utc,round_slug,entry_price,potential_profit,bet_size,outcome,result,wins_total,losses_total
+2026-06-24T00:54:32Z,btc-updown-5m-1782261900,0.930,0.075,1.00,Up,win,1,0
+2026-06-24T00:55:17Z,btc-updown-5m-1782262200,0.910,0.099,1.00,Down,loss,1,1
+2026-06-24T01:00:29Z,btc-updown-5m-1782262500,0.910,0.099,1.00,Up,win,2,1

@@ -1,0 +1,30 @@
+# docs & specs (local knowledge base)
+docs/
+SPEC_*.md
+*TASKS.md
+
+# research cache & client files
+.firecrawl/
+*.txt
+!requirements.txt
+
+# runtime output (sample_results.csv IS committed as a deliverable)
+results.csv
+_*.csv
+
+# delivery archive
+*.zip
+
+# Env & deps
+.env
+.env.*
+__pycache__/
+node_modules/
+.venv/
+venv/
+dist/
+build/
+*.egg-info/
+*.log
+.DS_Store
+Thumbs.db
